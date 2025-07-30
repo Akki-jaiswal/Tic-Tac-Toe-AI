@@ -44,6 +44,5 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 
 ## 📧 Contact
 
-Akshay Jaiswal
-* LinkedIn: [www.linkedin.com/in/akshay-jaiswal-20348a31b](www.linkedin.com/in/akshay-jaiswal-20348a31b)
+* LinkedIn: [www.linkedin.com/in/Akshay-jaiswal](www.linkedin.com/in/akshay-jaiswal-20348a31b)
 * GitHub: [github.com/Akki-jaiswal](https://github.com/Akki-jaiswal)

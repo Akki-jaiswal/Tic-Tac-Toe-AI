@@ -10,6 +10,7 @@ A classic Tic-Tac-Toe game implemented with an Artificial Intelligence opponent 
 * **Game State Detection:** Automatically detects wins, losses, and draws.
 
 ## 🚀 How to Play
+   Experience the game live! [Play Now!](https://akki-jaiswal.github.io/Tic-Tac-Toe-AI/)👈
 
 1.  **Open `index.html`:** Simply open the `index.html` file in your web browser.
 2.  **Make Your Move:** Click on any empty square on the Tic-Tac-Toe board to place your 'X'.
@@ -22,7 +23,7 @@ A classic Tic-Tac-Toe game implemented with an Artificial Intelligence opponent 
 * **CSS:** For styling and visual presentation.
 * **JavaScript:** For game logic, user interaction, and implementing the AI.
 
-## 🧠 Minimax Algorithm Explained (Briefly)
+## 🧠 Minimax Algorithm Explained
 
 The AI in this game uses the **Minimax algorithm**, a decision-making algorithm used in game theory. It works by:
 
